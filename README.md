@@ -1,2 +1,2 @@
 # G7-channel
-Wiki fixes
+Wiki fixes Moto G7 Play (Channel)
